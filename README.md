@@ -38,8 +38,8 @@
   
 >  <a href= https://leylam435.atlassian.net/wiki/spaces/~637e2fe1213a315af346d986/pages/1638401/1>Ссылка на проект</a>
 
-<li>Логин: mehtiyeva-leyla@mail.ru</li>
-<li>Пароль: Leyla435</li>
+> <p> Логин: mehtiyeva-leyla@mail.ru <p>
+> <p> Пароль: Leyla435 <p>
  </ol>
  
  <p>Выводы (итоги):<p>
